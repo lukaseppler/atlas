@@ -1,5 +1,4 @@
-> Productiveness is
-* your acceptance of morality, your recognition of the fact that you choose to live
+> Productiveness is your acceptance of morality, your recognition of the fact that you choose to live –
 * that productive work is the process by which man’s consciousness controls his existence, a constant process of acquiring knowledge and shaping matter to fit one’s purpose, of translating an idea into physical form, of remaking the earth in the image of one’s values
 * that all work is creative work if done by a thinking mind, and no work is creative if done by a blank who repeats in uncritical stupor a routine he has learned from others
 * that your work is yours to choose, and the choice is as wide as your mind, that nothing more is possible to you and nothing less is human
