@@ -16,7 +16,7 @@ We use Github: Whenever a system has replication, mutation and selection, evolut
 
 ## What can you do?
 
-1. Start reading the pages here. Maybe the one about [Rationality](Rationality.md)? Follow the links.
+1. Start reading the pages here. Maybe the one about [Morality](Morality.md)? Follow the links.
 2. Edit the pages. Github gives you the opportunity to send a pull request whenever you edit. This will alert us and allows discussion of the proposed change, or we can just accept the change into our repository.
 3. Fork the repository: You can take your own copy to edit. This way you can add a page, refer to it from an existing page. Treat it like a wiki, albeit a distributed one which has several forks and branches.
 Again, send us a pull request with your work.
