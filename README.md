@@ -12,7 +12,7 @@ We are explicitly against forming dogmas. Everything can be challenged. The meth
 
 It is our hope that this work will result in an improved common understanding of the world.
 
-We use Github: Whenever a system has replication, mutation and selection, evolution is the necessary consequence. On Github, we have forking, editing and pull requests. We can use this to ensure evolution of this project.
+We use Github: Whenever a system supports replication, mutation and selection, evolution is the necessary consequence. On Github, we have forking, editing and pull requests. We can use this to ensure evolution of this project.
 
 ## What can you do?
 
